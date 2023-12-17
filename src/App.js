@@ -10,13 +10,7 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore'
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAraO7pOdPED2o3hC-k9lTWZL4_orZNPHI",
-  authDomain: "vivirmasfacil-9f7c8.firebaseapp.com",
-  projectId: "vivirmasfacil-9f7c8",
-  storageBucket: "vivirmasfacil-9f7c8.appspot.com",
-  messagingSenderId: "944542962866",
-  appId: "1:944542962866:web:b8a5c2cd934451bb58e5ab",
-  measurementId: "G-N9Y5ZG6PMB"
+  // firebase 
 });
 
 
